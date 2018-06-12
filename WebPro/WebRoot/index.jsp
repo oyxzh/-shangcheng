@@ -21,16 +21,16 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   </head>
   
   <body>
-    	<div style="float:left;width:300px; border:1px solid #b8dcff; word-break:break-all;disabled">
+    	<div style="float:left;width:300px; border:1px solid #b8dcff; word-break:break-all;">
     		<font>abceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee</font><font>cba</font>
     	</div>
     	<div style="float:left;width:300px; border:1px solid #b8dcff; ">
     		2222222
     	</div>
     	<div style="float:left;width:300px; border:1px solid #b8dcff ">
-    		44443333333444
+    		4444333333344422
     	</div>
-    	<div style="display:none;disabled"><input type="text"/></div>
+    	<div style="display:none;"><input type="text"/></div>
     	<table border="1">
 <tr>
 <td STYLE="padding-left: 20px;width:400px;">
